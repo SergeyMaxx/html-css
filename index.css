@@ -1,0 +1,123 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #f1f1f1;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+img {
+  width: 225px;
+  float: left;
+  margin-right: 30px;
+  margin-left: 175px;
+  border-radius: 10px;
+  box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.5);
+}
+
+.container {
+  margin-bottom: 70px;
+}
+
+.target {
+  box-sizing: border-box;
+  width: 900px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 175px;
+  margin-bottom: 50px;
+  padding-bottom: 15px;
+}
+
+.target-ul {
+  margin-left: 40px;
+  padding-bottom: 30px;
+}
+
+.time {
+  box-sizing: border-box;
+  width: 900px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 175px;
+  margin-bottom: 50px;
+}
+
+.time-ul {
+  margin-left: 328px;
+  width: 400px;
+  padding-bottom: 30px;
+}
+
+.time-span {
+  margin-left: 100px;
+}
+
+.curs {
+  box-sizing: border-box;
+  width: 900px;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-left: 175px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.th {
+  font-weight: 900;
+}
+
+.span {
+  margin-left: 90px;
+}
+
+.span2 {
+  margin-left: 90px;
+}
+
+.curs-ul {
+  text-align: center;
+  margin-left: 230px;
+  width: 500px;
+  padding-bottom: 30px;
+}
+
+.contacts {
+  box-sizing: border-box;
+  width: 900px;
+  height: 200px;
+  margin-left: 175px;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 10px;
+}
+
+.img {
+  width: 60px;
+  margin-left: 110px;
+}
+
+.div {
+  position: relative;
+}
+
+.telegram {
+  position: absolute;
+  left: 109px;
+}
+
+.instagram {
+  position: absolute;
+  left: 306px;
+}
+
+.vk {
+  position: absolute;
+  right: 342px;
+}
+
+.github {
+  position: absolute;
+  right: 130px;
+}
